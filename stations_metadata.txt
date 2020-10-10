@@ -1,5 +1,0 @@
-Station	depth	passangers.per.day	age
-Dostoyevskaya	60	18200	7
-Rimskaya	54	36500	22
-Sretenskiy boulevard	60	10000	10
-Vystavochnaya	23	6100	12
